@@ -1,0 +1,18 @@
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Start test public:2:public_mutop_simple_def_and_let.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Test public:2:public_mutop_simple_def_and_let is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: End test public:2:public_mutop_simple_def_and_let.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Start test public:8:public_expr_minus_one.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Test public:8:public_expr_minus_one is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: End test public:8:public_expr_minus_one.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Start test public:12:public_expr_simple_div.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Test public:12:public_expr_simple_div is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: End test public:12:public_expr_simple_div.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Start test public:17:public_expr_single_bool.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Test public:17:public_expr_single_bool is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: End test public:17:public_expr_single_bool.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Start test public:20:public_expr_single_let.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Test public:20:public_expr_single_let is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: End test public:20:public_expr_single_let.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Start test public:26:public_err_div_by_zero.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Test public:26:public_err_div_by_zero is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: End test public:26:public_err_div_by_zero.

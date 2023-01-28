@@ -1,0 +1,6 @@
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Start test pbt:2:test_sum_small_ints.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#03 I: 
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#03 I: law test_sum_small_ints: 1000 relevant cases (1000 total)
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#03 I: 
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#03 I: Test pbt:2:test_sum_small_ints is successful.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#03 I: End test pbt:2:test_sum_small_ints.

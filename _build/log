@@ -1,0 +1,123 @@
+# dune exec bin/mutop.exe
+# OCAMLPARAM: unset
+# Workspace root: /home/saleem/cmsc330spring22/project4b
+$ /usr/bin/nproc > /tmp/dune197760.output 2> /dev/null
+# Auto-detected concurrency: 8
+# disable binary cache
+$ /home/saleem/.opam/4.12.0/bin/ocamlfind printconf path > /tmp/dune09a2d7.output
+$ /home/saleem/.opam/4.12.0/bin/ocamlc.opt -config > /tmp/dune90f462.output
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Release
+#  ; merlin = true
+#  ; for_host = None
+#  ; fdo_target_exe = None
+#  ; build_dir = "default"
+#  ; toplevel_path = None
+#  ; ocaml_bin = External "/home/saleem/.opam/4.12.0/bin"
+#  ; ocaml = Ok External "/home/saleem/.opam/4.12.0/bin/ocaml"
+#  ; ocamlc = External "/home/saleem/.opam/4.12.0/bin/ocamlc.opt"
+#  ; ocamlopt = Ok External "/home/saleem/.opam/4.12.0/bin/ocamlopt.opt"
+#  ; ocamldep = Ok External "/home/saleem/.opam/4.12.0/bin/ocamldep.opt"
+#  ; ocamlmklib = Ok External "/home/saleem/.opam/4.12.0/bin/ocamlmklib.opt"
+#  ; env =
+#      map
+#        { "CAML_LD_LIBRARY_PATH" :
+#            "/home/saleem/cmsc330spring22/project4b/_build/install/default/lib/stublibs"
+#        ; "DUNE_OCAML_HARDCODED" : "/home/saleem/.opam/4.12.0/lib"
+#        ; "DUNE_OCAML_STDLIB" : "/home/saleem/.opam/4.12.0/lib/ocaml"
+#        ; "DUNE_SOURCEROOT" : "/home/saleem/cmsc330spring22/project4b"
+#        ; "INSIDE_DUNE" :
+#            "/home/saleem/cmsc330spring22/project4b/_build/default"
+#        ; "MANPATH" :
+#            "/home/saleem/cmsc330spring22/project4b/_build/install/default/bin"
+#        ; "OCAMLFIND_IGNORE_DUPS_IN" :
+#            "/home/saleem/cmsc330spring22/project4b/_build/install/default/lib"
+#        ; "OCAMLPATH" :
+#            "/home/saleem/cmsc330spring22/project4b/_build/install/default/lib"
+#        ; "OCAMLTOP_INCLUDE_PATH" :
+#            "/home/saleem/cmsc330spring22/project4b/_build/install/default/lib/toplevel"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; findlib_path = [ External "/home/saleem/.opam/4.12.0/lib" ]
+#  ; arch_sixtyfour = true
+#  ; natdynlink_supported = true
+#  ; supports_shared_libraries = true
+#  ; ocaml_config =
+#      { version = "4.12.0"
+#      ; standard_library_default = "/home/saleem/.opam/4.12.0/lib/ocaml"
+#      ; standard_library = "/home/saleem/.opam/4.12.0/lib/ocaml"
+#      ; standard_runtime = "the_standard_runtime_variable_was_deleted"
+#      ; ccomp_type = "cc"
+#      ; c_compiler = "gcc"
+#      ; ocamlc_cflags = [ "-O2"; "-fno-strict-aliasing"; "-fwrapv"; "-fPIC" ]
+#      ; ocamlc_cppflags = [ "-D_FILE_OFFSET_BITS=64"; "-D_REENTRANT" ]
+#      ; ocamlopt_cflags =
+#          [ "-O2"; "-fno-strict-aliasing"; "-fwrapv"; "-fPIC" ]
+#      ; ocamlopt_cppflags = [ "-D_FILE_OFFSET_BITS=64"; "-D_REENTRANT" ]
+#      ; bytecomp_c_compiler =
+#          [ "gcc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-fPIC"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ; "-D_REENTRANT"
+#          ]
+#      ; bytecomp_c_libraries = [ "-lm"; "-ldl"; "-lpthread" ]
+#      ; native_c_compiler =
+#          [ "gcc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-fPIC"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ; "-D_REENTRANT"
+#          ]
+#      ; native_c_libraries = [ "-lm"; "-ldl" ]
+#      ; cc_profile = []
+#      ; architecture = "amd64"
+#      ; model = "default"
+#      ; int_size = 63
+#      ; word_size = 64
+#      ; system = "linux"
+#      ; asm = [ "as" ]
+#      ; asm_cfi_supported = true
+#      ; with_frame_pointers = false
+#      ; ext_exe = ""
+#      ; ext_obj = ".o"
+#      ; ext_asm = ".s"
+#      ; ext_lib = ".a"
+#      ; ext_dll = ".so"
+#      ; os_type = "Unix"
+#      ; default_executable_name = "a.out"
+#      ; systhread_supported = true
+#      ; host = "x86_64-pc-linux-gnu"
+#      ; target = "x86_64-pc-linux-gnu"
+#      ; profiling = false
+#      ; flambda = false
+#      ; spacetime = false
+#      ; safe_string = true
+#      ; exec_magic_number = "Caml1999X029"
+#      ; cmi_magic_number = "Caml1999I029"
+#      ; cmo_magic_number = "Caml1999O029"
+#      ; cma_magic_number = "Caml1999A029"
+#      ; cmx_magic_number = "Caml1999Y029"
+#      ; cmxa_magic_number = "Caml1999Z029"
+#      ; ast_impl_magic_number = "Caml1999M029"
+#      ; ast_intf_magic_number = "Caml1999N029"
+#      ; cmxs_magic_number = "Caml1999D029"
+#      ; cmt_magic_number = "Caml1999T029"
+#      ; natdynlink_supported = true
+#      ; supports_shared_libraries = true
+#      ; windows_unicode = false
+#      }
+#  }
+# Workspace root: /home/saleem/cmsc330spring22/project4b
+$ (cd _build/default && /home/saleem/.opam/4.12.0/bin/ocamlopt.opt -w -40 -g -I src/.p4b.objs/byte -I src/.p4b.objs/native -intf-suffix .ml -no-alias-deps -open P4b -o src/.p4b.objs/native/p4b__Eval.cmx -c -impl src/eval.ml)
+$ (cd _build/default && /home/saleem/.opam/4.12.0/bin/ocamlopt.opt -w -40 -g -a -o src/p4b.cmxa src/.p4b.objs/native/p4b.cmx src/.p4b.objs/native/p4b__MicroCamlTypes.cmx src/.p4b.objs/native/p4b__TokenTypes.cmx src/.p4b.objs/native/p4b__Utils.cmx src/.p4b.objs/native/p4b__Parser.cmx src/.p4b.objs/native/p4b__Lexer.cmx src/.p4b.objs/native/p4b__Eval.cmx)
+$ (cd _build/default && /home/saleem/.opam/4.12.0/bin/ocamlc.opt -w -40 -g -bin-annot -I bin/.mutop.eobjs/byte -I src/.p4b.objs/byte -no-alias-deps -o bin/.mutop.eobjs/byte/dune__exe__Mutop.cmo -c -impl bin/mutop.ml)
+$ (cd _build/default && /home/saleem/.opam/4.12.0/bin/ocamlopt.opt -w -40 -g -I bin/.mutop.eobjs/byte -I bin/.mutop.eobjs/native -I src/.p4b.objs/byte -I src/.p4b.objs/native -intf-suffix .ml -no-alias-deps -o bin/.mutop.eobjs/native/dune__exe__Mutop.cmx -c -impl bin/mutop.ml)
+$ (cd _build/default && /home/saleem/.opam/4.12.0/bin/ocamlopt.opt -w -40 -g -o bin/mutop.exe /home/saleem/.opam/4.12.0/lib/ocaml/str.cmxa -I /home/saleem/.opam/4.12.0/lib/ocaml src/p4b.cmxa bin/.mutop.eobjs/native/dune__exe__Mutop.cmx)

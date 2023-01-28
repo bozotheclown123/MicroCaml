@@ -1,0 +1,142 @@
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Runner: processes
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Chooser: simple
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration suite_name = "pbt"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration cache_filename = "/home/saleem/cmsc330spring22/project4b/_build/default/test/pbt/oUnit-$(suite_name).cache"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration run_gc_full_major = "true"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration seed = "-1"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration display = "true"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration results_style_1_X = "false"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration testdata_dir = "none"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration health_check_interval = "1."
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration verbose = "false"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration chooser = "simple"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration output_html_dir = "none"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration processes_kill_period = "5."
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration runner = "processes"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration shards = "4"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration processes_grace_period = "5."
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration qcheck_verbose = "true"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration log_encoding = "utf-8"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration output_junit_file = "none"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration ci = "false"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration qcheck_long = "false"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Configuration output_file = "/home/saleem/cmsc330spring22/project4b/_build/default/test/pbt/oUnit-$(suite_name)-$(shard_id).log"
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Using 4 workers maximum.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Starting worker number DESKTOP-P0JEQKV#01.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Worker DESKTOP-P0JEQKV#01 started.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Starting worker number DESKTOP-P0JEQKV#02.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Worker DESKTOP-P0JEQKV#02 started.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Starting worker number DESKTOP-P0JEQKV#03.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Worker DESKTOP-P0JEQKV#03 started.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Starting worker number DESKTOP-P0JEQKV#04.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Worker DESKTOP-P0JEQKV#04 started.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#01 I: Start test pbt:0:test_simple_def.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#02 I: Start test pbt:1:test_simple_let.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#03 I: Start test pbt:2:test_sum_small_ints.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Start test pbt:3:test_operator_precedence.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#03 I: 
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#03 I: law test_sum_small_ints: 1000 relevant cases (1000 total)
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#03 I: 
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#03 I: Test pbt:2:test_sum_small_ints is successful.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#03 I: End test pbt:2:test_sum_small_ints.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 4 tests running : pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 4 tests running: pbt:3:test_operator_precedence, pbt:2:test_sum_small_ints, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 3 tests running : pbt:3:test_operator_precedence, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 3 tests running: pbt:3:test_operator_precedence, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 3 tests running : pbt:3:test_operator_precedence, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 3 tests running: pbt:3:test_operator_precedence, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#01 I: 
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#01 I: law test_simple_def: 1000 relevant cases (1000 total)
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#01 I: 
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 3 tests running : pbt:3:test_operator_precedence, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 3 tests running: pbt:3:test_operator_precedence, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#01 I: Test pbt:0:test_simple_def is successful.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 3 tests running : pbt:3:test_operator_precedence, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 3 tests running: pbt:3:test_operator_precedence, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#01 I: End test pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 3 tests running : pbt:3:test_operator_precedence, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 3 tests running: pbt:3:test_operator_precedence, pbt:1:test_simple_let, pbt:0:test_simple_def.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 2 tests running : pbt:3:test_operator_precedence, pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 2 tests running: pbt:3:test_operator_precedence, pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#04 I: 
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#04 I: law test_operator_precedence: 1000 relevant cases (1000 total)
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#04 I: 
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 2 tests running : pbt:3:test_operator_precedence, pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 2 tests running: pbt:3:test_operator_precedence, pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#04 I: Test pbt:3:test_operator_precedence is successful.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 2 tests running : pbt:3:test_operator_precedence, pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 2 tests running: pbt:3:test_operator_precedence, pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#04 I: End test pbt:3:test_operator_precedence.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 2 tests running : pbt:3:test_operator_precedence, pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 2 tests running: pbt:3:test_operator_precedence, pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:50+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#02 I: 
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#02 I: law test_simple_let: 1000 relevant cases (1000 total)
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#02 I: 
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#02 I: Test pbt:1:test_simple_let is successful.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#02 I: End test pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Still 1 tests running : pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: 1 tests running: pbt:1:test_simple_let.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: 0 tests running: .
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Worker DESKTOP-P0JEQKV#03 has ended.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Worker DESKTOP-P0JEQKV#01 has ended.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Worker DESKTOP-P0JEQKV#04 has ended.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Worker DESKTOP-P0JEQKV#02 has ended.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Used 4 worker during test execution.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Run 1 tests with shard DESKTOP-P0JEQKV#03.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Run 1 tests with shard DESKTOP-P0JEQKV#04.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Run 1 tests with shard DESKTOP-P0JEQKV#02.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Run 1 tests with shard DESKTOP-P0JEQKV#01.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Check health of shard DESKTOP-P0JEQKV#03, 22 times.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Check health of shard DESKTOP-P0JEQKV#04, 13 times.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Check health of shard DESKTOP-P0JEQKV#02, 2 times.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Check health of shard DESKTOP-P0JEQKV#01, 17 times.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: ==============
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Summary:
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Test pbt:1:test_simple_let is successful.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Test pbt:3:test_operator_precedence is successful.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Test pbt:0:test_simple_def is successful.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Test pbt:2:test_sum_small_ints is successful.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Ran: 4 tests in: 1.36 seconds.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Cases: 4.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Tried: 4.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Errors: 0.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Failures: 0.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Skip: 0.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Todo: 0.
+2022-04-26T02:52:51+00:00 DESKTOP-P0JEQKV#00 I: Timeout: 0.

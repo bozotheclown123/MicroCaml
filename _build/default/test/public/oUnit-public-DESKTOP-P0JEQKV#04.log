@@ -1,0 +1,21 @@
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Start test public:3:public_expr_add1.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Test public:3:public_expr_add1 is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: End test public:3:public_expr_add1.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Start test public:9:public_expr_nested_let.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Test public:9:public_expr_nested_let is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: End test public:9:public_expr_nested_let.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Start test public:14:public_expr_simple_sub.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Test public:14:public_expr_simple_sub is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: End test public:14:public_expr_simple_sub.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Start test public:15:public_expr_simple_sum.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Test public:15:public_expr_simple_sum is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: End test public:15:public_expr_simple_sum.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Start test public:22:public_expr_single_not.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Test public:22:public_expr_single_not is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: End test public:22:public_expr_single_not.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Start test public:23:public_expr_single_number.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Test public:23:public_expr_single_number is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: End test public:23:public_expr_single_number.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Start test public:29:public_expr_shadow.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: Test public:29:public_expr_shadow is successful.
+2022-04-26T02:52:49+00:00 DESKTOP-P0JEQKV#04 I: End test public:29:public_expr_shadow.
